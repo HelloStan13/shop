@@ -19,9 +19,9 @@
 ### Script 2
 -Consulta SQL donde pueda obtener los productos vendidos digitando tipo de documento y número de documento.
 -Consultar productos por medio del nombre, el cual debe mostrar quien o quienes han sido sus proveedores.
--[PLUS no obligatorio] Crear una consulta que me permita ver qué producto ha sido el más vendido y en qué cantidades de mayor a menor.
+-PLUS no obligatorio --> Crear una consulta que me permita ver qué producto ha sido el más vendido y en qué cantidades de mayor a menor.
 
 
 
 ### Contacto
-Adryan Ynfante --> adryanynfante@gmail.com
+#### Adryan Ynfante --> adryanynfante@gmail.com
